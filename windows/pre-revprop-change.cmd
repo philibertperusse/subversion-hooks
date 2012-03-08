@@ -1,23 +1,13 @@
-::
 @ECHO OFF
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :: Original Publication: 2006/03/02 - Subversion Mailing List
 :: Source:               https://github.com/philibertperusse/subversion-hooks
-:: Author(s):            Philibert Perusse (http://philibertperusse.me)
-::
-:: Credits shall be kept in all version (modified or not) of this file.
+:: Author(s):            Philibert Perusse, ing., M.Sc.A. - http://philibertperusse.me
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ::
-:: Usage of this file follows the Free Software Definition 
-:: (http://en.wikipedia.org/wiki/Free_Software_Definition):
-::   Freedom 0: The freedom to run the program for any purpse.
-::   Freedom 1: The freedom to study how the program works, and change 
-::              it to make it do what you wish.
-::   Freedom 2: The freedom to redistribute copies so you can help your 
-::              neighbor.
-::   Freedom 3: The freedom to improve the program, and release your 
-::              improvements (and modified versions in general) to the 
-::              public, so that the whole community benefits.
+:: Licensed under the Creative Commons Attribution 3.0 License - http://creativecommons.org/licenses/by/3.0/
+::  - Free for use in both personal and commercial projects
+::  - Attribution requires leaving author name, author link, and the license info intact.
 ::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ::
